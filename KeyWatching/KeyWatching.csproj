@@ -6,7 +6,7 @@
     <Company>Jason Bock</Company>
     <Description>Want to spy on your friends? Seriously? C'mon, don't be evil, just use this package to see what you're typing (and no one else!).</Description>
     <Copyright>Copyright © 2017</Copyright>
-    <PackageLicenseUrl>https://github.com/jasonbock/keywatching/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/jasonbock/keywatching/blob/master/LICENSE.md</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/jasonbock/keywatching</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jasonbock/keywatching</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
